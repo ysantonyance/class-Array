@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(42,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(169,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(197,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(247,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\class Array (12.06.25)\class Array (12.06.25)\Source.cpp(284,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  class Array (12.06.25).vcxproj -> C:\Users\zinov\source\repos\class Array (12.06.25)\x64\Debug\class Array (12.06.25).exe
